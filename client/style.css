@@ -92,7 +92,7 @@ body {
   flex: 1;
 
   color: #dcdcdc;
-  font-size: 20px;
+  font-size: medium;
 
   max-width: 100%;
   overflow-x: scroll;
@@ -133,7 +133,7 @@ textarea {
   width: 100%;
 
   color: black;
-  font-size: 18px;
+  font-size: medium;
 
   padding: 10px;
   background: transparent;
