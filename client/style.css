@@ -120,9 +120,8 @@ form {
   margin: 0 auto;
   padding: 10px;
   background: white;
-  border-radius: 5px;
-margin-bottom: 5px;
-
+  border-color: #343541;
+  border-style: solid;
 color: black;
   display: flex;
   flex-direction: row;
