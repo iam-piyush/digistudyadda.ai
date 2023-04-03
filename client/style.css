@@ -5,11 +5,12 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
-font-size: small;
+
 }
 
 body {
   background: #343541;
+font-size: small;
 }
 
 #app {
