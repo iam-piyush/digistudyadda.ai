@@ -11,6 +11,10 @@ body {
   background: white;
   color: black;
 }
+::placeholder{
+  color: black;
+  opacity: 1;
+}
 
 #app {
   width: 100vw;
