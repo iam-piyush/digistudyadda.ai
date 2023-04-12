@@ -119,9 +119,10 @@ form {
   margin: 0 auto;
   padding: 10px;
   background: white;
-  border-width: 1px;
-  border-color: black;
-  border-style: solid;
+  border-top: 1px solid;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
   color: black;
   display: flex;
   flex-direction: row;
