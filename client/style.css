@@ -8,7 +8,7 @@
 }
 
 body {
-  background: yellow;
+  background-color: yellow;
   color: black;
 }
 ::placeholder{
