@@ -123,8 +123,7 @@ form {
   margin: 0 auto;
   padding: 10px;
   background: white;
-  border: 1px solid #ccc;
-  border-radius: 15px;
+  border: none;
   color: black;
   display: flex;
   flex-direction: row;
