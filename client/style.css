@@ -12,7 +12,7 @@ body {
   color: black;
 }
 ::placeholder{
-  color: black;
+  color: #ccc;
   opacity: 1;
 }
 
